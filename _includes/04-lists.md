@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Lista
+* No ordenada
+* Para el curso
