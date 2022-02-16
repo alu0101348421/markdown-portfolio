@@ -1,1 +1,1 @@
-![Imagen del curso](_includes/02-image.md)
+![Enlace de Github](https://github.com/alu0101348421)
