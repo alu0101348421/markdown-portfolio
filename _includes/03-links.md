@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![Imagen del curso](_includes/02-image.md)
